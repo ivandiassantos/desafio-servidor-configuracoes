@@ -6,10 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ivandiassantos/prova-configuracoes-gerais
-          #proxy:
-            #https:
-              #host: localhost
-              #password: 18018080
-              #port: '40080'
-              #username: C1298479
+          uri: https://github.com/ivandiassantos/desafio-configuracoes-gerais
